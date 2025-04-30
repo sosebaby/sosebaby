@@ -1,6 +1,6 @@
 ## Hey, Im Euodia but you can call me Sose☺️
 
-😎Artificial Intelligence student at DC <br/>
+😎Artificial Intelligence student at DC with a GPA of 4.2 <br/>
 ❤️I am an aspiring Data Scientist<br/>
 🥸I actually do love coding<br/>
 😌I also love dancing
