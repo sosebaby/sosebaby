@@ -23,6 +23,7 @@ GitHub showcases selected academic and independent projects.
 ### 🧠 Deep Learning & AI Research
 * **[PyTorch Heart Disease Classifier](https://github.com/sosebaby/Pytorch-Heart-Disease-Classifier)**: An end-to-end Deep Learning pipeline using a 3-layer MLP to predict clinical risk with an **87% F1-score**. Includes custom data loaders and dropout regularization.
 * **[Heart Disease Classification (Scikit-Learn)](https://github.com/sosebaby/heart-disease-classification)**: A comparative study of Logistic Regression and SVMs for medical diagnosis, featuring outlier removal via Tukey’s IQR.
+* **[AI College Query Bot (RAG)](https://github.com/sosebaby/ai-college-query-bot)**: Developed a Retrieval-Augmented Generation (RAG) system using LangChain and OpenAI/Hugging Face to query unstructured PDF data. Implemented an evaluation pipeline to minimize hallucinations and ensure model robustness. 
 
 ### 📈 Predictive Analytics & Forecasting
 * **[Daily Expense Forecasting](https://github.com/sosebaby/expense-forecasting)**: A time-series project using **SARIMA** and **Streamlit** to provide probabilistic financial predictions with 95% confidence intervals.
