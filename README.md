@@ -32,22 +32,19 @@ and enjoy shipping real systems — not just notebooks.
 - Supports XAUUSD, NAS100, EURUSD, GBPUSD, BTCUSD and more, with full CSV audit logging (13 fields per trade event) and built-in safeguards against runaway loss escalation
 
 ---
-**[Diabetes Risk Prediction API](https://github.com/sosebaby/diabetes-risk-api-project)** 
-Production-grade FastAPI + Random Forest classifier deployed to GCP Cloud Run via Docker, with Great Expectations data validation, SHAP explainability, and a hard F1 ≥ 0.75 assertion gate — ensuring no model gets saved unless it meets the minimum performance threshold.****.
 
 ### 🧠 Deep Learning & AI Research
 **[PyTorch Heart Disease Classifier](https://github.com/sosebaby/Pytorch-Heart-Disease-Classifier)**
 End-to-end deep learning pipeline using a 3-layer MLP to predict clinical risk — achieved **87% F1-score** with custom data loaders and dropout regularization.
+
+**[Diabetes Risk Prediction API](https://github.com/sosebaby/diabetes-risk-api-project)** 
+Production-grade FastAPI + Random Forest classifier deployed to GCP Cloud Run via Docker, with Great Expectations data validation, SHAP explainability, and a hard F1 ≥ 0.75 assertion gate — ensuring no model gets saved unless it meets the minimum performance threshold.
 
 **[Heart Disease Classification — Scikit-Learn](https://github.com/sosebaby/heart-disease-classification)**
 Comparative study of Logistic Regression and SVMs for medical diagnosis, with outlier removal via Tukey's IQR method.
 
 **[AI College Query Bot — RAG System](https://github.com/sosebaby/ai-college-query-bot)**
 Retrieval-Augmented Generation pipeline using LangChain and OpenAI/HuggingFace to query unstructured PDF corpora, with a structured evaluation framework to minimize hallucinations.
-
-
-**[Diabetes Risk Prediction API](https://github.com/sosebaby/diabetes-risk-api-project)** 
-Production-grade FastAPI + Random Forest classifier deployed to GCP Cloud Run via Docker, with Great Expectations data validation, SHAP explainability, and a hard F1 ≥ 0.75 assertion gate — ensuring no model gets saved unless it meets the minimum performance threshold.
 
 
 ---
