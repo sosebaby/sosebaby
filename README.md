@@ -43,6 +43,8 @@ Comparative study of Logistic Regression and SVMs for medical diagnosis, with ou
 **[AI College Query Bot — RAG System](https://github.com/sosebaby/ai-college-query-bot)**
 Retrieval-Augmented Generation pipeline using LangChain and OpenAI/HuggingFace to query unstructured PDF corpora, with a structured evaluation framework to minimize hallucinations.
 
+**[Diabetes Risk Prediction API](https://github.com/sosebaby/diabetes-risk-api-project)** 
+Production-grade FastAPI + Random Forest classifier deployed to GCP Cloud Run via Docker, with Great Expectations data validation, SHAP explainability, and a hard F1 ≥ 0.75 assertion gate — ensuring no model gets saved unless it meets the minimum performance threshold.
 ---
 
 ### 📈 Predictive Analytics & Forecasting
